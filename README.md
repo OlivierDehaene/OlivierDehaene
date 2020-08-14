@@ -1,8 +1,6 @@
-<div >
+<div align="center">
 
-# Olivier Dehaene
-
-## Machine Learning Engineer
+# Machine Learning Engineer
 
 <img alt="HTML5" width="100px" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin.svg" />
 <img alt="HTML5" width="100px" height="50px" src="https://raw.githubusercontent.com/StackExchange/Stacks-Icons/production/src/Icon/Logo.svg" />
