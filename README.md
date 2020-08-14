@@ -2,8 +2,8 @@
 
 # Machine Learning Engineer
 
-<img alt="HTML5" width="100px" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin.svg" />
-<img alt="HTML5" width="100px" height="50px" src="https://raw.githubusercontent.com/StackExchange/Stacks-Icons/production/src/Icon/Logo.svg" />
+[<img alt="HTML5" width="100px" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin.svg" />](https://www.linkedin.com/in/olivier-dehaene/)
+[<img alt="HTML5" width="100px" height="50px" src="https://raw.githubusercontent.com/StackExchange/Stacks-Icons/production/src/Icon/Logo.svg" />](https://stackoverflow.com/users/10025506/olivier-dehaene?tab=profile)
 
 <br />
 
@@ -49,4 +49,3 @@ Diagnostic and Interventional Imaging, 2019.
 - C.PotierWatkins,**O.Dehaene**,andS.Dehaene.*Automaticconstructionofa phonics 
 curriculum forreading education using the transformer neural network*. Artificial 
 Intelligence in Education, 2019.
-
