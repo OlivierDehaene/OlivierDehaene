@@ -1,9 +1,14 @@
 <div align="center">
 
-# Machine Learning Engineer
+# Olivier DEHAENE
 
 [<img alt="HTML5" width="100px" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin.svg" />](https://www.linkedin.com/in/olivier-dehaene/)
 [<img alt="HTML5" width="100px" height="50px" src="https://raw.githubusercontent.com/StackExchange/Stacks-Icons/production/src/Icon/Logo.svg" />](https://stackoverflow.com/users/10025506/olivier-dehaene?tab=profile)
+
+<br />
+
+Fascinated by Machine Learning.
+Doing applied research on Unsupervised Visual Representation Learning. 
 
 <br />
 
