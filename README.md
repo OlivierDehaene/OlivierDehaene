@@ -7,11 +7,6 @@
 
 <br />
 
-Fascinated by Machine Learning.
-Doing applied research on Unsupervised Visual Representation Learning. 
-
-<br />
-
 <img alt="HTML5" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" />
 <img alt="HTML5" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch.svg" />
 <img alt="HTML5" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tensorflow.svg" />
